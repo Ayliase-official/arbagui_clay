@@ -45,7 +45,9 @@ The project uses the Raylib 2D graphics library. [raylib src](./raylib/include/)
 Contains the main source files required to ruin the application. [here](./src/)
 
 ## `include`
-Headers and other files used to compile the binary. [here](./lib/)
+Headers and other files used to compile the binary. 
+- [raylib for clay](./include/raylib)
+- [clay](./include/clay/)
 
 ## `assets`
 All textual, grpahical and auditory assets required by the application. 

@@ -2,10 +2,8 @@
 #include <stdlib.h>
 // #include <unistd.h>
 
-// make sure to include windows.h before raylib.h
-#include <windows.h>
-#include "./../raylib/include/raylib.h"
-
+#include "./../include/clay/lay.h"
+#include "./../include/raylib/caly_renderer_raylib.h"
 
 int main(int argc, char *argv[]) {
 	// fork();
