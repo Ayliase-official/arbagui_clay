@@ -55,5 +55,7 @@ dkms.conf
 /build/*
 /build/
 /Makefile
-/_desp/*
-/_desp/
+/_deps/*
+/_deps/
+/CMakeFiles/*
+/CMakeFiles/
