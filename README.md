@@ -4,43 +4,38 @@ An implementation of the arbagui program written in C using the Clay 2D graphics
 ---
 
 # Building and Running
-Uses the Meson build system (alongside ninja).
 
-Install both either via native package manager or using:
+## Build Using CMake
+Uses CMake to auto-install all essential raylib libraries.
+
+From the project root:
 ```sh
-python -m pip install meson
-python -m pip install ninja
+mkdir build
+cd build
+cmake ..
 ```
 
-## Building
+CMake will generate all the required files and download content from github.
 
-From project root go to the build directory and compile:
+Compile your executable by running this from your project root:
 ```sh
 cd build
-meson compile
+make
 ```
 
-# Running
+## Run Directly
 
-Executable is generated in `build` folder. Run directly:
+Run the produced executable directly.
+
+From the project root:
 ```sh
 cd build
 ./arbagui
 ```
 
-File was originally built in windows for testing. Thus executable has a different extension:
-```sh
-cd build
-./arbagui.exe
-```
-
 ---
 
 # Source
-
-## Raylib
-The project uses the Raylib 2D graphics library. [raylib src](./raylib/include/)
-
 ## `src`
 Contains the main source files required to ruin the application. [here](./src/)
 
@@ -52,7 +47,7 @@ Headers and other files used to compile the binary.
 ## `assets`
 All textual, grpahical and auditory assets required by the application. 
 - [textual](./assets/texts/)
-- [font](./assets/fonts/)
+- [fonts](./assets/fonts/)
 - [images](./assets/images/)
 - [audios](./assets/audios/)
 - [videos](./assets/videos/)
