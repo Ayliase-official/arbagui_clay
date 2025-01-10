@@ -1,0 +1,201 @@
+[?1049h[?1h=[H[J]11;?[?2004h[?u[c[34h[?25h[?25l[m[H[J[?1004h[34h[?25h[?25l[23B[J[38;5;224m[lspconfig] config "lua-language-server" not found. Ensure it is listed in `con[23;24r[23;1H[m[M[1;24r[22;1H                                                                                
+
+[J[23;80H[38;5;224mf[8;24r[8;1H[m[38;2;206;205;195m[48;2;16;15;15m[14M[1;24r[10;1H[m[38;2;255;0;0m[48;2;16;15;15migs.md` or added as a custom server.[m[38;2;206;205;195m[48;2;16;15;15m                                            
+Error detected while processing command line:                                   
+E5108: Error executing lua vim/shared.lua:95: s: expected string, got table     
+stack traceback:                                                                
+        [C]: in function 'error'                                                
+        vim/shared.lua:764: in function 'validate'                              
+        vim/shared.lua:95: in function 'gsplit'                                 
+        vim/shared.lua:178: in function 'split'                                 
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:294: in func
+tion 'manage'                                                                   
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:347: in func
+tion 'manage_all_plugins'                                                       
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:582: in func
+tion 'sync'                                                                     
+        [string ":lua"]:1: in main chunk                                        ]112[2 q]112[2 q[?1002h[?1006h[H
+
+
+
+
+
+
+
+
+[m[38;2;255;0;0m[48;2;16;15;15migs.md` or added as a custom server.[m[38;2;206;205;195m[48;2;16;15;15m                                            
+Error detected while processing command line:                                   
+E5108: Error executing lua vim/shared.lua:95: s: expected string, got table     
+stack traceback:                                                                
+        [C]: in function 'error'                                                
+        vim/shared.lua:764: in function 'validate'                              
+        vim/shared.lua:95: in function 'gsplit'                                 
+        vim/shared.lua:178: in function 'split'                                 
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:294: in func
+tion 'manage'                                                                   
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:347: in func
+tion 'manage_all_plugins'                                                       
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:582: in func
+tion 'sync'                                                                     
+        [string ":lua"]:1: in main chunk                                        [15A[34h[?25h[?25l[H                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                [15A[34h[?25h[?25l]112[2 q]112[2 q[?1002l[?1006l[34h[?25h[?25l[H  [m[38;2;87;86;83m[48;2;16;15;15m  1 [m[38;2;206;205;195m[48;2;16;15;15m                                                                          
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+[m[38;2;255;0;0m[48;2;16;15;15m[lspconfig] config "lua-language-server" not found. Ensure it is listed in `conf
+igs.md` or added as a custom server.[m[38;2;206;205;195m[48;2;16;15;15m                                            
+Error detected while processing command line:                                   
+E5108: Error executing lua vim/shared.lua:95: s: expected string, got table     
+stack traceback:                                                                
+        [C]: in function 'error'                                                
+        vim/shared.lua:764: in function 'validate'                              
+        vim/shared.lua:95: in function 'gsplit'                                 
+        vim/shared.lua:178: in function 'split'                                 
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:294: in func
+tion 'manage'                                                                   
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:347: in func
+tion 'manage_all_plugins'                                                       
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:582: in func
+tion 'sync'                                                                     
+        [string ":lua"]:1: in main chunk                                        [15A~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+[m[38;2;206;205;195m[48;2;16;15;15m                                                                                [6;35H[m[38;2;206;205;195m[48;2;16;15;15mNVIM v0.9.5[8;19HNvim is open source and freely distributable[9;29Hhttps://neovim.io/#chat[11;18Htype  :help nvim[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m       if you are new! [12;18Htype  :checkhealth[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m     to optimize Nvim[13;18Htype  :q[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m               to exit         [14;18Htype  :help[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m            for help        [16;18Htype  :help news[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m to see changes in v0.9[18;26HBecome a registered Vim user![19;18Htype  :help register[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m   for information [?1002h[?1006h[1;7H[34h[?25h[?25l[6;35H           [8;19H                                            [9;29H                       [11;18H                                              [12;18H                                              [13;18H                                              [14;18H                                              [16;18H                                              [18;26H                             [19;18H                                              [5B[0;1m[38;2;35;37;38m[48;2;102;217;239m NORMAL [m[38;2;102;217;239m[48;2;249;38;114m[24;10H[m[38;2;35;37;38m[48;2;249;38;114m [24;12H main [m[38;2;249;38;114m[48;2;35;37;38m[24;19H[m[38;2;239;89;57m[48;2;35;37;38m [No Name]                                   [24;65H [m[38;2;249;38;114m[48;2;35;37;38m[24;67H[m[38;2;35;37;38m[48;2;249;38;114m Top [m[38;2;102;217;239m[48;2;249;38;114m[24;73H[0;1m[38;2;35;37;38m[48;2;102;217;239m   1:1  [1;7H[34h[?25h[?1049h[?1h=[H[J]11;?[?2004h[?u[c[34h[?25h[?25l[m[H[J[?1004h[34h[?25h[?25l[23B[J[38;5;224m[lspconfig] config "lua-language-server" not found. Ensure it is listed in `con[23;24r[23;1H[m[M[1;24r[22;1H                                                                                
+
+[J[23;80H[38;5;224mf[8;24r[8;1H[m[38;2;206;205;195m[48;2;16;15;15m[14M[1;24r[10;1H[m[38;2;255;0;0m[48;2;16;15;15migs.md` or added as a custom server.[m[38;2;206;205;195m[48;2;16;15;15m                                            
+Error detected while processing command line:                                   
+E5108: Error executing lua vim/shared.lua:95: s: expected string, got table     
+stack traceback:                                                                
+        [C]: in function 'error'                                                
+        vim/shared.lua:764: in function 'validate'                              
+        vim/shared.lua:95: in function 'gsplit'                                 
+        vim/shared.lua:178: in function 'split'                                 
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:294: in func
+tion 'manage'                                                                   
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:347: in func
+tion 'manage_all_plugins'                                                       
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:582: in func
+tion 'sync'                                                                     
+        [string ":lua"]:1: in main chunk                                        ]112[2 q]112[2 q[?1002h[?1006h[H
+
+
+
+
+
+
+
+
+[m[38;2;255;0;0m[48;2;16;15;15migs.md` or added as a custom server.[m[38;2;206;205;195m[48;2;16;15;15m                                            
+Error detected while processing command line:                                   
+E5108: Error executing lua vim/shared.lua:95: s: expected string, got table     
+stack traceback:                                                                
+        [C]: in function 'error'                                                
+        vim/shared.lua:764: in function 'validate'                              
+        vim/shared.lua:95: in function 'gsplit'                                 
+        vim/shared.lua:178: in function 'split'                                 
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:294: in func
+tion 'manage'                                                                   
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:347: in func
+tion 'manage_all_plugins'                                                       
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:582: in func
+tion 'sync'                                                                     
+        [string ":lua"]:1: in main chunk                                        [15A[34h[?25h[?25l[H                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                [15A[34h[?25h[?25l]112[2 q]112[2 q[?1002l[?1006l[34h[?25h[?25l[H  [m[38;2;87;86;83m[48;2;16;15;15m  1 [m[38;2;206;205;195m[48;2;16;15;15m                                                                          
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+[m[38;2;255;0;0m[48;2;16;15;15m[lspconfig] config "lua-language-server" not found. Ensure it is listed in `conf
+igs.md` or added as a custom server.[m[38;2;206;205;195m[48;2;16;15;15m                                            
+Error detected while processing command line:                                   
+E5108: Error executing lua vim/shared.lua:95: s: expected string, got table     
+stack traceback:                                                                
+        [C]: in function 'error'                                                
+        vim/shared.lua:764: in function 'validate'                              
+        vim/shared.lua:95: in function 'gsplit'                                 
+        vim/shared.lua:178: in function 'split'                                 
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:294: in func
+tion 'manage'                                                                   
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:347: in func
+tion 'manage_all_plugins'                                                       
+        ...e/nvim/site/pack/packer/start/packer.nvim/lua/packer.lua:582: in func
+tion 'sync'                                                                     
+        [string ":lua"]:1: in main chunk                                        [15A~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+[m[38;2;206;205;195m[48;2;16;15;15m                                                                                [6;35H[m[38;2;206;205;195m[48;2;16;15;15mNVIM v0.9.5[8;19HNvim is open source and freely distributable[9;29Hhttps://neovim.io/#chat[11;18Htype  :help nvim[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m       if you are new! [12;18Htype  :checkhealth[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m     to optimize Nvim[13;18Htype  :q[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m               to exit         [14;18Htype  :help[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m            for help        [16;18Htype  :help news[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m to see changes in v0.9[18;26HHelp poor children in Uganda![19;18Htype  :help iccf[0;1m[38;2;206;205;195m[48;2;16;15;15m<Enter>[m[38;2;206;205;195m[48;2;16;15;15m       for information [?1002h[?1006h[1;7H[34h[?25h[?25l[6;35H           [8;19H                                            [9;29H                       [11;18H                                              [12;18H                                              [13;18H                                              [14;18H                                              [16;18H                                              [18;26H                             [19;18H                                              [5B[0;1m[38;2;35;37;38m[48;2;102;217;239m NORMAL [m[38;2;102;217;239m[48;2;249;38;114m[24;10H[m[38;2;35;37;38m[48;2;249;38;114m [24;12H main [m[38;2;249;38;114m[48;2;35;37;38m[24;19H[m[38;2;239;89;57m[48;2;35;37;38m [No Name]                                   [24;65H [m[38;2;249;38;114m[48;2;35;37;38m[24;67H[m[38;2;35;37;38m[48;2;249;38;114m Top [m[38;2;102;217;239m[48;2;249;38;114m[24;73H[0;1m[38;2;35;37;38m[48;2;102;217;239m   1:1  [1;7H[34h[?25h
