@@ -1,4 +1,4 @@
-# Prerequisites
+ # Prerequisite0
 *.d
 
 # Object files
@@ -52,6 +52,8 @@ Mkfile.old
 dkms.conf
 
 # CMake output
-/build/
 /build/*
+/build/
 /Makefile
+/_desp/*
+/_desp/

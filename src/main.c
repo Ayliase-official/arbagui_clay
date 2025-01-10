@@ -19,12 +19,6 @@ void error_handler(Clay_ErrorData error) {
 const float W_WIDTH = 1280.00f;
 const float W_HEIGHT = 720.00f;
 =======
-// #include <unistd.h>
-
-#include "./../include/clay/lay.h"
-#include "./../include/raylib/caly_renderer_raylib.h"
->>>>>>> parent of b5d12ec (meson failed; have to use the provided cmake template from clay)
-
 
 int main(int argc, char *argv[]) {
 <<<<<<< HEAD
@@ -97,8 +91,15 @@ int main(int argc, char *argv[]) {
     CloseAudioDevice();
 
 =======
+// #include <unistd.h>
+
+#include "./../include/clay/lay.h"
+#include "./../include/raylib/caly_renderer_raylib.h"
+
+int main(int argc, char *argv[]) {
 	// fork();
 	printf("hello world!\n");
 >>>>>>> parent of b5d12ec (meson failed; have to use the provided cmake template from clay)
 	return 0;
 }
+=======
