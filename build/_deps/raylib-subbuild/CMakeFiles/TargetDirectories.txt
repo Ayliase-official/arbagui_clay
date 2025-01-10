@@ -1,0 +1,3 @@
+/home/ayliase/Documents/arbagui_clay/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+/home/ayliase/Documents/arbagui_clay/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+/home/ayliase/Documents/arbagui_clay/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir

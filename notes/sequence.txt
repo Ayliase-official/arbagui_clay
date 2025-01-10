@@ -1,0 +1,66 @@
+1st line: Welcome to aroth Body composition analyzer. We help track your health inside-out.
+
+2nd line: Use the pin to unlock your device.
+
+3rd line: Please enter your login ID.
+
+4th line: These are your registration details.
+
+5th line: Please note that all the information provided by you regarding your personal information, lifestyle, and health data during the customer registration process and in the device during the assessment of your health markers will be kept confidential. 
+The data recorded shall only be shared with your Wellness Coach/Nutritionist/Doctor/Medical Practitioner/Health Researcher, whom you have registered with for these measurements. 
+The data shall be used by aaroth research team for better understanding your case profile to provide recommendations and for research purposes to understand overall health markers across social groups and improve these services.
+
+6th line part 1: We have sent a SMS-OTP to your registered mobile number. Please verify the same. 
+6th line part 2: According to the details given you are not eligible for the measurements. Please consult your doctor before trying again.
+
+
+7th line: Please select the right option.
+
+8th line part 1: Stand straight to measure the Height.
+  part 2: If Led a) Height	       --------
+       is green. b) Temperature		       |
+		 C) Heart Rate		       |----->> is successfully measured
+		 d) SPO2		       |              
+		 e) Weight                     |
+		 f) Body Measurement   --------
+
+part 3: If led 	: a) Height	      ---------
+	is blue	  b) Temperature		 |
+		  C) Heart Rate		         |----->> Please measure your 
+		  d) SPO2		         |         ________ again.         
+		  e) Weight                      |
+		  f) Body Measurement   --------
+
+part 4: If led 	: a) Height	      ---------
+	is 	  b) Temperature		 |
+		  C) Heart Rate		         |----->> Your ______ is ____. 
+		  d) SPO2		         |                 
+		  e) Weight                      |
+		  f) Body Measurement   --------
+
+
+If machine does not recognize , press the back button and start again from the 8th line part 1.
+
+9th line: Hold your hand still to measure your temperature.
+
+10th line: Please place your left index finger in the pulse Oximeter.
+
+11th line: Please step on the weight scale.
+part 2: If error occurs: Step down and measure your weight again.
+
+12th line: The report is being generated.
+
+13th line: Report has been generated. For details refer to the full report on WhatsApp.
+
+14th line: Thank you for using our services.
+
+
+
+
+
+
+
+
+
+
+
