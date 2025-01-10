@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+<<<<<<< HEAD
 #include <unistd.h>
 #include <sys/wait.h>
 #include <stdbool.h>
@@ -17,9 +18,16 @@ void error_handler(Clay_ErrorData error) {
 
 const float W_WIDTH = 1280.00f;
 const float W_HEIGHT = 720.00f;
+=======
+// #include <unistd.h>
+
+#include "./../include/clay/lay.h"
+#include "./../include/raylib/caly_renderer_raylib.h"
+>>>>>>> parent of b5d12ec (meson failed; have to use the provided cmake template from clay)
 
 
 int main(int argc, char *argv[]) {
+<<<<<<< HEAD
     const int W_FULL_WIDTH = GetScreenWidth();
     const int W_FULL_HEIGHT = GetScreenHeight();
 
@@ -88,5 +96,9 @@ int main(int argc, char *argv[]) {
     UnloadSound(welcome);
     CloseAudioDevice();
 
+=======
+	// fork();
+	printf("hello world!\n");
+>>>>>>> parent of b5d12ec (meson failed; have to use the provided cmake template from clay)
 	return 0;
 }
